@@ -1,0 +1,1 @@
+Se vc tiver no Windows, e tem o servidor MySQL instalado, as bibliotecas já devem estar instaladas.
